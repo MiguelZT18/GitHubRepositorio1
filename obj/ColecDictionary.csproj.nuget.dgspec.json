@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/freddypalacios/DAII/ColecDictionary/ColecDictionary.csproj": {}
+    "C:\\Users\\migue\\Downloads\\ColecDictionary\\ColecDictionary\\ColecDictionary.csproj": {}
   },
   "projects": {
-    "/Users/freddypalacios/DAII/ColecDictionary/ColecDictionary.csproj": {
+    "C:\\Users\\migue\\Downloads\\ColecDictionary\\ColecDictionary\\ColecDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddypalacios/DAII/ColecDictionary/ColecDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Downloads\\ColecDictionary\\ColecDictionary\\ColecDictionary.csproj",
         "projectName": "ColecDictionary",
-        "projectPath": "/Users/freddypalacios/DAII/ColecDictionary/ColecDictionary.csproj",
-        "packagesPath": "/Users/freddypalacios/.nuget/packages/",
-        "outputPath": "/Users/freddypalacios/DAII/ColecDictionary/obj/",
+        "projectPath": "C:\\Users\\migue\\Downloads\\ColecDictionary\\ColecDictionary\\ColecDictionary.csproj",
+        "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\migue\\Downloads\\ColecDictionary\\ColecDictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/freddypalacios/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -53,26 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
