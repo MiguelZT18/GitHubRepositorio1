@@ -4,7 +4,7 @@
 String[] Departamento = { "Boaco", "Carazo", "Chinandega", "Chontales", "Costa Caribe Norte", "Costa Caribe Sur",
     "Estelí", "Granada", "Jinotega", "León", "Madriz", "Managua", "Masaya", "Matagalpa", "Nueva Segovia", "Río San Juan", "Rivas" };
 
-int[] Poblacion = { 180501, 193719, 439996, 198083, 530868, 414543, 229866, 214377, 456930, 421050, 174744, 1549649, 391903, 593503, 271581, 135446, 182645 };
+int[] Poblacion = { 180501, 193719, 439996, 198083, 530868, 414543, 229866, 214377, 456930, 421050, 174744, 1575819, 391903, 593503, 271581, 135446, 182645 };
 
 Dictionary<string, int> diccionario = Departamento
     .Zip(Poblacion, (k, v) => new { Clave = k, Valor = v })
