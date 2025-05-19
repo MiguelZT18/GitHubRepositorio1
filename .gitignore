@@ -1,0 +1,3 @@
+# Ignorar carpetas Debug específicas del proyecto ColectDictionary
+ColectDictionary/bin/
+ColectDictionary/obj/
